@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>abrir.png</file>
+        <file>copiar.png</file>
+        <file>cortar.png</file>
+        <file>guardar_como.png</file>
+        <file>pegar.png</file>
+        <file>quitar.png</file>
+        <file>acerca_de_Qt.png</file>
+        <file>acerca_de.png</file>
+        <file>icons8-formato-de-estilo-de-fuente-filled-50.png</file>
+        <file>icons8-imprimir-48.png</file>
+        <file>icons8-monitor-64.png</file>
+        <file>icons8-paleta-de-pintura-48.png</file>
+    </qresource>
+</RCC>
